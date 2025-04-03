@@ -20,6 +20,4 @@ GRUPO 7 POO UPN - 01/04/2025
 4.SILVA QUINTANA, JOEL ALBERTO
 
 
----
-
-¡Espero que esto te ayude! Si necesitas personalizarlo más, dime qué información quieres agregar. 😊
+feature/formulario-crud-productos → Para el formulario de CRUD de productos (o cualquier otra entidad que maneje tu sistema).
